@@ -1,1 +1,1 @@
-천 번째 커밋 hello git 이라는 file1.txt를 저장했습니다.
+천 번째 커밋 hello git 이라는 file1.txt를 저장했습니다.second
